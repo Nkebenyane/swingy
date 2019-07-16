@@ -1,6 +1,5 @@
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/model/artifacts/Helm.java
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/view/Cli.java
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/view/Gui.java
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/Main.java
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/model/artifacts/Armor.java
-/goinfre/mnkebeny/Workspace/WTC/JavaProjects/swingy/src/main/java/model/artifacts/Weapon.java
+/goinfre/mnkebeny/Desktop/swingy/src/main/java/swingy/model/board/Board.java
+/goinfre/mnkebeny/Desktop/swingy/src/main/java/swingy/controller/HeroController.java
+/goinfre/mnkebeny/Desktop/swingy/src/main/java/swingy/view/HeroView.java
+/goinfre/mnkebeny/Desktop/swingy/src/main/java/swingy/model/HeroModel.java
+/goinfre/mnkebeny/Desktop/swingy/src/main/java/swingy/Main.java

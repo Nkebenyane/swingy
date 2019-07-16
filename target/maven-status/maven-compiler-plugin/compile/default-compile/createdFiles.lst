@@ -1,6 +1,5 @@
-Main.class
-model/artifacts/Weapon.class
-view/Gui.class
-model/artifacts/Armor.class
-view/Cli.class
-model/artifacts/Helm.class
+swingy/view/HeroView.class
+swingy/Main.class
+swingy/controller/HeroController.class
+swingy/model/board/Board.class
+swingy/model/HeroModel.class
